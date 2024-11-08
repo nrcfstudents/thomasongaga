@@ -21,11 +21,23 @@ p{
 	text-align: left;
 }
 h2{ color: red;
-
+   text-align: left;
 }
 h3{color: blue;
-
+   
 }
 h4{color: purple;
 
+}
+h5{color: turquoise}
+
+table,th,td{
+	border: 1px solid black;
+	width:100%;
+}
+nav{text-align: right;
+    justify-content:center;
+    padding:0;
+    Margin:0;
+    font-weight: bold;
 }
