@@ -51,7 +51,27 @@ nav{text-align: right;
 }  
 .project
  h2{
- 	color:blue;
+ 	color:yellowgreen;
  	margin-bottom:80px;
 }
-.project p{color: re}
+.project p{color: red;
+   text-align: center;
+   margin-bottom: 10px
+}
+.project-content{
+	flex: 1;
+}
+.project-image{
+	width: 100px;
+	height: 100px;
+	border-radius: 10px;
+}
+.project-link{
+	background-color: magenta;
+	color: indigo;
+	border-radius: 5px;
+	display: inline-block;  
+}
+footer{
+	font-size: 14px
+}
