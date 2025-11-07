@@ -54,4 +54,8 @@ nav{text-align: right;
  	color:blue;
  	margin-bottom:80px;
 }
-.project p{color: re}
+.project p{color: red}
+.card{
+	background-color: grey;
+	border-radius: 10px;
+}
